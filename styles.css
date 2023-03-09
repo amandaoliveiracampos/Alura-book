@@ -1,0 +1,7 @@
+:root {
+  --cor-de-fundo: #ebecee;
+}
+
+bory {
+  background-color: var(--cor-de-fundo);
+}
